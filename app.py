@@ -1,4 +1,4 @@
-# Requested by mom. Timer app is used to alert the user when to stand up, sit down, or take a break.
+# This timer app is used to alert the user when to stand up, sit down, or take a break.
 # Version 1.0, 7/19/22
 
 # Imports for program functionality
